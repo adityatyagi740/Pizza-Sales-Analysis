@@ -1,0 +1,89 @@
+# 🍕 Pizza Sales Analysis | SQL + Excel
+
+## 📌 Project Overview
+
+This project focuses on analyzing pizza sales data using **MySQL and Microsoft Excel** to identify business trends, evaluate sales performance, and generate meaningful insights through data analysis and visualization.
+
+The project combines SQL queries for data analysis with an interactive Excel dashboard to present key performance indicators and sales trends in an easy-to-understand format.
+
+## 🎯 Project Objectives
+
+- Analyze overall pizza sales performance.
+- Calculate total revenue and order-related metrics.
+- Identify best-selling and least-selling pizzas.
+- Analyze sales by pizza category and size.
+- Understand daily and monthly sales trends.
+- Build an interactive Excel dashboard for business reporting.
+
+## 🛠️ Tools & Technologies
+
+- **MySQL:** Data querying, aggregation, and analysis.
+- **Microsoft Excel:** Data visualization and dashboard creation.
+- **SQL:** Filtering, grouping, sorting, and aggregate functions.
+- **Excel Charts & Pivot Tables:** Sales reporting and visualization, where used.
+
+## 📂 Project Structure
+
+```text
+Pizza-Sales-Analysis/
+│
+├── pizza_sales_analysis_sql.sql
+├── pizza_sales_analysis+dashboard.xlsx
+├── dashboard_preview.png
+└── README.md
+```
+
+## 📊 Key Business Questions
+
+1. What is the total revenue generated from pizza sales?
+2. How many orders were placed?
+3. What is the average order value?
+4. Which pizza categories generate the highest sales?
+5. Which pizza sizes are most popular?
+6. What are the best-selling and least-selling pizzas?
+7. How do sales vary by day and month?
+
+## 📈 Dashboard Features
+
+The Excel dashboard is designed to present important sales metrics and trends in a visual format.
+
+- Sales performance overview.
+- Revenue and order analysis.
+- Category-wise and size-wise sales distribution.
+- Best-selling pizza analysis.
+- Time-based sales trends.
+- Interactive filters, if included in the dashboard.
+
+## 💡 Key Learnings
+
+- Writing SQL queries to answer business questions.
+- Using aggregate functions and grouping for sales analysis.
+- Translating raw sales data into business insights.
+- Creating Excel-based dashboards and visual reports.
+- Presenting analytical findings in a structured format.
+
+## 🚀 How to Use This Project
+
+1. Download or clone this repository.
+2. Open `pizza_sales_analysis.sql` in MySQL Workbench.
+3. Import or connect to the relevant pizza sales dataset.
+4. Ensure the database and table names match the SQL queries.
+5. Execute the queries to reproduce the analysis.
+6. Open `pizza_sales_dashboard.xlsx` in Microsoft Excel.
+7. Explore the dashboard and its available filters.
+
+## 📁 Files Included
+
+- **SQL Script:** Contains the queries used for sales analysis.
+- **Excel Dashboard:** Provides a visual summary of pizza sales.
+- **Dashboard Preview:** Displays a screenshot of the final dashboard.
+
+## 👨‍💻 Author
+
+**Data Analytics Portfolio Project**
+
+Skills demonstrated: SQL | MySQL | Microsoft Excel | Data Analysis | Data Visualization
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository and share your feedback.
